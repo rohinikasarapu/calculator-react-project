@@ -40,7 +40,7 @@ bash
   npm start
 Open your browser and go to http://localhost:3000 to see the calculator.
 
-Deployment:
+**###Deployment:**
 This project can be deployed easily using GitHub Pages.
 
 To deploy:
@@ -61,10 +61,10 @@ bash
 Your app will be live at:
 https://rohinikasarapu.github.io/react-calculator
 
-License
+**##License**
 This project is licensed under the MIT License.
 
-Contact
+**##Contact**
 Created by Rohini Kasarapu
 
 ---
